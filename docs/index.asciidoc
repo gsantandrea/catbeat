@@ -1,0 +1,5 @@
+= Catbeat Docs
+
+Welcome to the Catbeat documentation.
+
+
